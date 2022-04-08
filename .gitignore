@@ -1,0 +1,6 @@
+# Don't commit config files
+.env
+example/.env
+
+# Ignore dependencies
+example/node_modules
