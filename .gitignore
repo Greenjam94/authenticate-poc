@@ -4,3 +4,6 @@ example/.env
 
 # Ignore dependencies
 example/node_modules
+
+# ignore IDE
+.idea/
